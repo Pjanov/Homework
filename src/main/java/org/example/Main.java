@@ -34,6 +34,7 @@ public class Main {
             array[index] = initialValue;
             System.out.printf("%d ", array[index]);
         }
+        System.out.println();
     }
 
     /**
@@ -54,6 +55,7 @@ public class Main {
             }
             System.out.println();
         }
+        System.out.println();
     }
 
     /**
@@ -66,6 +68,7 @@ public class Main {
                 array[index] *= 2;
             System.out.printf("%d ", array[index]);
         }
+        System.out.println();
     }
 
     /**
@@ -78,6 +81,7 @@ public class Main {
             array[index] += index;
             System.out.printf("%d ", array[index]);
         }
+        System.out.println();
     }
 
     /**
@@ -93,6 +97,7 @@ public class Main {
                 array[index] = 1;
             System.out.printf("%d ", array[index]);
         }
+        System.out.println();
     }
 
     /**
